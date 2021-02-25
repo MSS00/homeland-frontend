@@ -1,0 +1,391 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1129px;
+}
+
+.u-section-1 .u-line-1 {
+  height: 3px;
+  transform-origin: left center 0px;
+  animation-duration: 1500ms;
+  width: 1564px;
+  margin: 89px -453px 0 28px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Source Code Pro";
+  animation-duration: 1000ms;
+  margin: 40px 617px 0 28px;
+}
+
+.u-section-1 .u-list-1 {
+  margin-top: 20px;
+  margin-bottom: 47px;
+  min-height: 878px;
+  grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px);
+  grid-template-rows: auto;
+  grid-gap: 10px 10px;
+}
+
+.u-section-1 .u-list-item-1 {
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/youtube-illustration.jpg");
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Source Code Pro";
+  margin: 0 88px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: "Source Code Pro";
+  font-size: 0.75rem;
+  margin: 20px 1px 0;
+}
+
+.u-section-1 .u-list-item-2 {
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/google-logo.png");
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: "Source Code Pro";
+  margin: 0 88px 0 0;
+}
+
+.u-section-1 .u-text-5 {
+  font-family: "Source Code Pro";
+  font-size: 0.75rem;
+  margin: 20px 1px 0;
+}
+
+.u-section-1 .u-list-item-3 {
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/h72pifrqdnp31.jpg");
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-6 {
+  font-family: "Source Code Pro";
+  margin: 0 88px 0 0;
+}
+
+.u-section-1 .u-text-7 {
+  font-family: "Source Code Pro";
+  font-size: 0.75rem;
+  margin: 20px 1px 0;
+}
+
+.u-section-1 .u-list-item-4 {
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-image-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/Vkontakte_LOGO.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-8 {
+  font-family: "Source Code Pro";
+  margin: 0 88px 0 0;
+}
+
+.u-section-1 .u-text-9 {
+  font-family: "Source Code Pro";
+  font-size: 0.75rem;
+  margin: 20px 1px 0;
+}
+
+.u-section-1 .u-list-item-5 {
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-image-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/steam_logo_art_2000.0.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-10 {
+  font-family: "Source Code Pro";
+  margin: 0 88px 0 0;
+}
+
+.u-section-1 .u-text-11 {
+  font-family: "Source Code Pro";
+  font-size: 0.75rem;
+  margin: 20px 1px 0;
+}
+
+.u-section-1 .u-list-item-6 {
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-image-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/243104971-0.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-12 {
+  font-family: "Source Code Pro";
+  margin: 0 88px 0 0;
+}
+
+.u-section-1 .u-text-13 {
+  font-family: "Source Code Pro";
+  font-size: 0.75rem;
+  margin: 20px 1px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 932px;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-top: 28px;
+    width: 940px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 445px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-top: 81px;
+    min-height: 724px;
+    height: auto;
+  }
+
+  .u-section-1 .u-list-item-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-list-item-2 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-list-item-3 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-list-item-4 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-9 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-list-item-5 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-11 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-list-item-6 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-text-12 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-13 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1464px;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-top: 534px;
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 225px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-top: -425px;
+    min-height: 1248px;
+    grid-template-columns: calc(50% - 5.25px) calc(50% - 5.25px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-line-1 {
+    margin-top: 845px;
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 45px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-top: -736px;
+    margin-bottom: 7px;
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-line-1 {
+    margin-top: 821px;
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-top: -699px;
+    margin-bottom: 31px;
+  }
+}.u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/e89cfb2a803ec391f358d7c2607b60bfee0d8a7788e1c2415b9774efbe2fd3ef5bf123e90af9235fa09568efedb82299f27c4ed6e8352a0ee03d24_1280.jpg");
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 388px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: "Source Code Pro";
+  font-size: 1.875rem;
+  animation-duration: 1000ms;
+  margin: 78px 20px 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: "Source Code Pro";
+  animation-duration: 1000ms;
+  margin: 20px 20px 0;
+}
+
+.u-section-2 .u-btn-1 {
+  font-family: "Source Code Pro";
+  border-style: solid;
+  animation-duration: 1000ms;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 320px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 245px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 184px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 116px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
+  }
+}
