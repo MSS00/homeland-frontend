@@ -31676,7 +31676,16 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 700;
   text-transform: uppercase;
   animation-duration: 1000ms;
-  margin: -38px 155px 60px auto;
+  margin: -38px 155px 0 auto;
+  padding: 4px 30px 5px;
+}
+
+.u-header .u-btn-4 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: -38px 277px 60px auto;
   padding: 4px 30px 5px;
 }
 @media (max-width: 1199px) {
@@ -31688,8 +31697,9 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-image-1 {
     width: 71px;
     height: 71px;
-    margin-top: -61px;
-    margin-left: -42px;
+    margin-top: 20px;
+    margin-right: 479px;
+    margin-left: 23px;
   }
 
   .u-header .u-text-2 {
@@ -31709,13 +31719,22 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-btn-3 {
+    margin-top: 20px;
     margin-right: 0;
+  }
+
+  .u-header .u-btn-4 {
+    margin-right: 77px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-text-1 {
     margin-right: 259px;
     margin-left: 18px;
+  }
+
+  .u-header .u-image-1 {
+    margin-left: 0;
   }
 
   .u-header .u-text-2 {
@@ -31726,11 +31745,21 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-line-1 {
     width: 720px;
   }
+
+  .u-header .u-btn-4 {
+    margin-right: 0;
+  }
 }
 @media (max-width: 767px) {
   .u-header .u-text-1 {
     margin-right: 79px;
     margin-left: 14px;
+  }
+
+  .u-header .u-image-1 {
+    margin-top: -61px;
+    margin-right: auto;
+    margin-left: -42px;
   }
 
   .u-header .u-text-2 {
@@ -31740,6 +31769,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-line-1 {
     width: 540px;
+  }
+
+  .u-header .u-btn-3 {
+    margin-top: -38px;
   }
 }
 @media (max-width: 575px) {
@@ -31762,7 +31795,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 308px;
+  min-height: 205px;
 }
 
 .u-footer .u-text-1 {
@@ -31784,7 +31817,7 @@ a.u-link.u-text-hover-grey-90:hover {
   border-style: solid;
   font-weight: 700;
   text-transform: uppercase;
-  margin: -38px 444px 60px auto;
+  margin: -38px 444px 25px auto;
   padding: 4px 30px 5px;
 }
 @media (max-width: 1199px) {

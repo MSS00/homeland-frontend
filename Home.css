@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 1129px;
+  min-height: 1210px;
 }
 
 .u-section-1 .u-line-1 {
@@ -18,7 +18,7 @@
 
 .u-section-1 .u-list-1 {
   margin-top: 20px;
-  margin-bottom: 47px;
+  margin-bottom: 60px;
   min-height: 878px;
   grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px);
   grid-template-rows: auto;
@@ -168,7 +168,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 932px;
+    min-height: 1056px;
   }
 
   .u-section-1 .u-line-1 {
@@ -185,6 +185,7 @@
 
   .u-section-1 .u-list-1 {
     margin-top: 81px;
+    margin-bottom: 47px;
     min-height: 724px;
     height: auto;
   }
@@ -270,7 +271,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1464px;
+    min-height: 1580px;
   }
 
   .u-section-1 .u-line-1 {
@@ -283,7 +284,7 @@
   }
 
   .u-section-1 .u-list-1 {
-    margin-top: -425px;
+    margin-top: 20px;
     min-height: 1248px;
     grid-template-columns: calc(50% - 5.25px) calc(50% - 5.25px);
   }
@@ -345,6 +346,9 @@
   font-family: "Source Code Pro";
   border-style: solid;
   animation-duration: 1000ms;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
   margin: 30px auto 60px;
 }
 
